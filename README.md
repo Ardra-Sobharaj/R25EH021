@@ -5,3 +5,7 @@ Hello! I am Ardra, a computer science student interested in software development
 ## Technologies
 
 This repository uses Git, GitHub, Node.js, npm, JavaScript, and Axios.
+
+## Project Information
+
+This repository demonstrates practical work with version control, package management, and API development.
